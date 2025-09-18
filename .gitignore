@@ -1,0 +1,13 @@
+env/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+# large/binary artifacts
+*.joblib
+*.pkl
+*.h5
+*.csv
+*.zip
+*.tar
+*.gz
